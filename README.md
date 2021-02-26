@@ -1,1 +1,1 @@
-# Python-ML-ICP6
+In this ICP, we were asked to apply KMean clustering to a given data set, and find the silhouette score. We were then asked to apply scaling to the same data set and see how that impacts the silhouette score. Finally, we were asked to apply PCA, and KMeans to the same data and note the change in silhouette score. 
